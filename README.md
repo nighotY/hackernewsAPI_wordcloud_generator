@@ -5,7 +5,7 @@ HackerNews API reference documentation : https://github.com/HackerNews/API
 ### Installations
 
 **Prerequisites:**
-To run this project requires an installation of Python 3 on 
+To run this project on your machine requires an installation of Python 3 on 
 your device(preferably the latest release)
 
 If you already have Python 3 installed on your device,
